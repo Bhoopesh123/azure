@@ -32,6 +32,7 @@ prometheus.remote_write "default" {
 
     basic_auth {
       username = "2274987"
+      password = "glc_eyJvIjoiMTM1MzE1NiIsIm4iOiJzdGFjay0xMTc1MzcyLWhtLXdyaXRlLW1ldHJpY3NfcncyIiwiayI6InQ5ZjQ3U3B4TjcxbDNQOFJsSEMyNUFtMCIsIm0iOnsiciI6InByb2QtYXAtc291dGgtMSJ9fQ=="
     }
 
     queue_config {
